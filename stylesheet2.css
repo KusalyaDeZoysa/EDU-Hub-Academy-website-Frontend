@@ -1,0 +1,80 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(25, 24, 54);
+    color: rgb(199, 199, 199);
+}
+
+#banner{
+    height: 450px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.About-img{
+    height: 250px;
+    margin-bottom: 6%;
+    border-radius: 8px;
+}
+
+.heading-about{
+    padding: 5% 0 24px;
+    text-align: center;
+}
+
+.heading-courses{
+    padding: 3% 0 5%;
+    text-align: center;
+}
+
+.courses{
+    padding: 5% 0 6%;
+
+}
+
+.footer{
+    padding: 32px 0 1%;
+    background-color: rgb(243, 241, 241);
+}
+
+#contact{
+    text-align: center;
+}
+
+.copy-right{
+    text-align: center;
+    color: grey;
+    margin: 2% 0 0;
+}
+
+/* h4{
+    text-align: center;
+    padding-top: 15px;
+} */
+
+p{
+    text-align: center;
+}
+
+.icon{
+    font-size: 64px;
+    color: rgb(201, 201, 201);
+}
+
+.icon-text{
+    color: rgb(201, 201, 201);
+}
+
+.card-text{
+    color: black;
+}
+
+.card-title{
+    color: black;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.card-body .price{
+    color: black;
+    padding: 0px 0 8px;
+}
